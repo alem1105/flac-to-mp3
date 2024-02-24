@@ -26,4 +26,4 @@ Replace **$dir** with the path of the dir you want to convert and **n_threads** 
 
 # P.S.
 
-I wrote that for personal-use, it just need to work 🙃
+I wrote that for personal-use, it just need to work for me 🙃
