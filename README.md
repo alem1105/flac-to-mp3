@@ -13,7 +13,7 @@ pip install mutagen
 ```
 pip install tqdm
 ```
-
+- **[ffempeg](https://ffmpeg.org/)**
 # How to use
 
 - You can use this script in cmd like this:
